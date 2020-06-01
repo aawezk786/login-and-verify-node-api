@@ -9,7 +9,7 @@ const client = require('twilio')(config.ACCOUNT_SID, config.AUTH_TOKEN)
 
 // /login
 //     - phone number
-//     - channel (sms/call)
+//     - channel (sms)
 
 // /verify
 //     - phone number
